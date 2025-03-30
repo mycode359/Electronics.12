@@ -1,0 +1,2858 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.24)  23 MAR 2025 15:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**electronics12.tex
+(./electronics12.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2022/01/21 v3.65 A class for typesetting presentations
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+)
+\beamer@tempbox=\box50
+\beamer@tempcount=\count186
+\c@beamerpauses=\count187
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count188
+\beamer@minimum=\count189
+\beamer@decode@box=\box51
+)
+\beamer@commentbox=\box52
+\beamer@modecount=\count190
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\headdp=\dimen138
+\footheight=\dimen139
+\sidebarheight=\dimen140
+\beamer@tempdim=\dimen141
+\beamer@finalheight=\dimen142
+\beamer@animht=\dimen143
+\beamer@animdp=\dimen144
+\beamer@animwd=\dimen145
+\beamer@leftmargin=\dimen146
+\beamer@rightmargin=\dimen147
+\beamer@leftsidebar=\dimen148
+\beamer@rightsidebar=\dimen149
+\beamer@boxsize=\dimen150
+\beamer@vboxoffset=\dimen151
+\beamer@descdefault=\dimen152
+\beamer@descriptionwidth=\dimen153
+\beamer@lastskip=\skip47
+\beamer@areabox=\box53
+\beamer@animcurrent=\box54
+\beamer@animshowbox=\box55
+\beamer@sectionbox=\box56
+\beamer@logobox=\box57
+\beamer@linebox=\box58
+\beamer@sectioncount=\count191
+\beamer@subsubsectionmax=\count192
+\beamer@subsectionmax=\count193
+\beamer@sectionmax=\count194
+\beamer@totalheads=\count195
+\beamer@headcounter=\count196
+\beamer@partstartpage=\count197
+\beamer@sectionstartpage=\count198
+\beamer@subsectionstartpage=\count199
+\beamer@animationtempa=\count266
+\beamer@animationtempb=\count267
+\beamer@xpos=\count268
+\beamer@ypos=\count269
+\beamer@ypos@offset=\count270
+\beamer@showpartnumber=\count271
+\beamer@currentsubsection=\count272
+\beamer@coveringdepth=\count273
+\beamer@sectionadjust=\count274
+\beamer@toclastsection=\count275
+\beamer@tocsectionnumber=\count276
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+\beamer@paperwidth=\skip48
+\beamer@paperheight=\skip49
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen166
+\pgf@y=\dimen167
+\pgf@xa=\dimen168
+\pgf@ya=\dimen169
+\pgf@xb=\dimen170
+\pgf@yb=\dimen171
+\pgf@xc=\dimen172
+\pgf@yc=\dimen173
+\pgf@xd=\dimen174
+\pgf@yd=\dimen175
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count284
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count285
+\pgfsyssoftpath@bigbuffer@items=\count286
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen176
+\pgfmath@count=\count287
+\pgfmath@box=\box60
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count288
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen177
+\pgf@picmaxx=\dimen178
+\pgf@picminy=\dimen179
+\pgf@picmaxy=\dimen180
+\pgf@pathminx=\dimen181
+\pgf@pathmaxx=\dimen182
+\pgf@pathminy=\dimen183
+\pgf@pathmaxy=\dimen184
+\pgf@xx=\dimen185
+\pgf@xy=\dimen186
+\pgf@yx=\dimen187
+\pgf@yy=\dimen188
+\pgf@zx=\dimen189
+\pgf@zy=\dimen190
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen191
+\pgf@path@lasty=\dimen192
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen193
+\pgf@shorten@start@additional=\dimen194
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count289
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen195
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen196
+\pgf@pt@y=\dimen197
+\pgf@pt@temp=\dimen198
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen199
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen256
+\pgf@sys@shading@range@num=\count290
+\pgf@shadingcount=\count291
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box64
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count292
+\XC@countmixins=\count293
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen257
+\Hy@linkcounter=\count294
+\Hy@pagecounter=\count295
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count296
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4073.
+Package hyperref Info: Option `implicit' set `false' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count297
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen258
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count298
+\Field@Width=\dimen259
+\Fld@charsize=\dimen260
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+\Hy@abspage=\count299
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2020/01/31
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count302
+\beamer@lastskipcover=\skip50
+\beamer@trivlistdepth=\count303
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count304
+\c@part=\count305
+\c@section=\count306
+\c@subsection=\count307
+\c@subsubsection=\count308
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box65
+\beamer@frametitlebox=\box66
+\beamer@zoombox=\box67
+\beamer@zoomcount=\count309
+\beamer@zoomframecount=\count310
+\beamer@frametextheight=\dimen261
+\c@subsectionslide=\count311
+\beamer@frametopskip=\skip51
+\beamer@framebottomskip=\skip52
+\beamer@frametopskipautobreak=\skip53
+\beamer@framebottomskipautobreak=\skip54
+\beamer@envbody=\toks29
+\framewidth=\dimen262
+\c@framenumber=\count312
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box68
+\beamer@autobreakcount=\count313
+\beamer@autobreaklastheight=\dimen263
+\beamer@frametitletoks=\toks30
+\beamer@framesubtitletoks=\toks31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box69
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box70
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks32
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box71
+\bmb@colorbox=\box72
+\bmb@boxwidth=\dimen264
+\bmb@boxheight=\dimen265
+\bmb@prevheight=\dimen266
+\bmb@temp=\dimen267
+\bmb@dima=\dimen268
+\bmb@dimb=\dimen269
+\bmb@prevheight=\dimen270
+)
+\beamer@blockheadheight=\dimen271
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
+)
+\beamer@bibiconwidth=\skip55
+\c@figure=\count314
+\c@table=\count315
+\abovecaptionskip=\skip56
+\belowcaptionskip=\skip57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen272
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen273
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen274
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count316
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count317
+\leftroot@=\count318
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count319
+\DOTSCASE@=\count320
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box73
+\strutbox@=\box74
+\big@size=\dimen275
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count321
+\c@MaxMatrixCols=\count322
+\dotsspace@=\muskip17
+\c@parentequation=\count323
+\dspbrk@lvl=\count324
+\tag@help=\toks35
+\row@=\count325
+\column@=\count326
+\maxfields@=\count327
+\andhelp@=\toks36
+\eqnshift@=\dimen276
+\alignsep@=\dimen277
+\tagshift@=\dimen278
+\tagwidth@=\dimen279
+\totwidth@=\dimen280
+\lineht@=\dimen281
+\@envbody=\toks37
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks39
+\thm@bodyfont=\toks40
+\thm@headfont=\toks41
+\thm@notefont=\toks42
+\thm@headpunct=\toks43
+\thm@preskip=\skip61
+\thm@postskip=\skip62
+\thm@headsep=\skip63
+\dth@everypar=\toks44
+)
+\c@theorem=\count328
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen282
+\beamer@dimb=\dimen283
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/circuitikz/circuitikz.sty
+Package: circuitikz 2021/12/06{} The CircuiTikz circuit drawing package version
+ 1.4.5
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box75
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen284
+\pgf@nodesepend=\dimen285
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen286
+\pgffor@skip=\dimen287
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count329
+\pgfplotmarksize=\dimen288
+)
+\tikz@lastx=\dimen289
+\tikz@lasty=\dimen290
+\tikz@lastxsaved=\dimen291
+\tikz@lastysaved=\dimen292
+\tikz@lastmovetox=\dimen293
+\tikz@lastmovetoy=\dimen294
+\tikzleveldistance=\dimen295
+\tikzsiblingdistance=\dimen296
+\tikz@figbox=\box76
+\tikz@figbox@bg=\box77
+\tikz@tempbox=\box78
+\tikz@tempbox@bg=\box79
+\tikztreelevel=\count330
+\tikznumberofchildren=\count331
+\tikznumberofcurrentchild=\count332
+\tikz@fig@count=\count333
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count334
+\pgfmatrixcurrentcolumn=\count335
+\pgf@matrix@numberofcolumns=\count336
+)
+\tikz@expandcount=\count337
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.
+code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen297
+\pgfarrowlength=\dimen298
+\pgfarrowwidth=\dimen299
+\pgfarrowlinewidth=\dimen300
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.code.te
+x
+File: pgfmodulebending.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineartransf
+ormations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgftransformnonlinearflatness=\dimen301
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.
+code.tex
+File: pgflibrarycurvilinear.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@curvilinear@time@a=\dimen302
+\pgf@curvilinear@length@a=\dimen303
+\pgf@curvilinear@length@b=\dimen304
+\pgf@curvilinear@length@c=\dimen305
+\pgf@curvilinear@length@d=\dimen306
+)
+\pgf@arrows@the@rigidity=\dimen307
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfpu.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+)) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
+\pgf@circ@count@a=\count338
+\pgf@circ@count@b=\count339
+\pgf@circ@count@c=\count340
+\pgf@circ@res@up=\dimen308
+\pgf@circ@res@down=\dimen309
+\pgf@circ@res@zero=\dimen310
+\pgf@circ@res@left=\dimen311
+\pgf@circ@res@right=\dimen312
+\pgf@circ@res@other=\dimen313
+\pgf@circ@res@step=\dimen314
+\pgf@circ@res@temp=\dimen315
+\pgf@circ@Rlen=\dimen316
+\pgf@circ@scaled@Rlen=\dimen317
+\pgfstartlinewidth=\dimen318
+)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex
+\ctikz@scratchbox=\box80
+)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
+\pgf@circ@res@count=\count341
+)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen319
+)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeCambridgeUS.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks47
+\verbatim@line=\toks48
+\verbatim@in@stream=\read3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box81
+\tcb@upperbox=\box82
+\tcb@lowerbox=\box83
+\tcb@phantombox=\box84
+\c@tcbbreakpart=\count342
+\c@tcblayer=\count343
+\c@tcolorbox@number=\count344
+\tcb@temp=\box85
+\tcb@temp=\box86
+\tcb@temp=\box87
+\tcb@temp=\box88
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count345
+\l__pdf_internal_box=\box89
+)
+(./electronics12.aux)
+\openout1 = `electronics12.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=342.2953pt
+* \textheight=244.6939pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count346
+\scratchdimen=\dimen320
+\scratchbox=\box90
+\nofMPsegments=\count347
+\nofMParguments=\count348
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count349
+\MPscratchDim=\dimen321
+\MPnumerator=\count350
+\makeMPintoPDFobject=\count351
+\everyMPtoPDFconversion=\toks50
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count352
+)
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
+
+(./electronics12.out) (./electronics12.out)
+\@outlinefile=\write5
+\openout5 = `electronics12.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 12.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 12.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 12.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
+2.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
+2.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dic
+tionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dict
+ionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionar
+y-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictiona
+ry-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
+ry-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+) (./electronics12.nav)
+Overfull \hbox (38.99075pt too wide) in paragraph at lines 12--12
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./electronics12.toc)
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[2
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 52.
+
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+Overfull \vbox (0.16649pt too high) detected at line 52
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[3
+
+]
+\absvshift=\dimen322
+\absvshift=\dimen323
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[4
+
+]
+<WheatstoneBridge.jpg, id=189, 602.25pt x 584.1825pt>
+File: WheatstoneBridge.jpg Graphic file (type jpg)
+<use WheatstoneBridge.jpg>
+Package pdftex.def Info: WheatstoneBridge.jpg  used on input line 91.
+(pdftex.def)             Requested size: 142.26378pt x 137.99602pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[5
+
+ <./WheatstoneBridge.jpg>]
+<meterbridge.png, id=217, 521.95pt x 289.08pt>
+File: meterbridge.png Graphic file (type png)
+<use meterbridge.png>
+Package pdftex.def Info: meterbridge.png  used on input line 112.
+(pdftex.def)             Requested size: 142.26378pt x 78.79369pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[6
+
+ <./meterbridge.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[7
+
+]
+
+! Package pgfkeys Error: I do not know the key '/tikz/galvanometer' and I am go
+ing to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 \end{frame}
+                 
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+Overfull \vbox (0.17313pt too high) detected at line 161
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[8
+
+]
+
+! Package pgfkeys Error: I do not know the key '/tikz/galvanometer' and I am go
+ing to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.189 \end{frame}
+                 
+(That was another \errmessage.)
+
+
+Overfull \vbox (3.67844pt too high) detected at line 189
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[9
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[10
+
+]
+<gtoam.png, id=357, 908.39375pt x 259.97125pt>
+File: gtoam.png Graphic file (type png)
+<use gtoam.png>
+Package pdftex.def Info: gtoam.png  used on input line 219.
+(pdftex.def)             Requested size: 170.71652pt x 48.85556pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[11
+
+ <./gtoam.png>]
+<gtov.png, id=391, 908.39375pt x 259.97125pt>
+File: gtov.png Graphic file (type png)
+<use gtov.png>
+Package pdftex.def Info: gtov.png  used on input line 249.
+(pdftex.def)             Requested size: 170.71652pt x 48.85556pt.
+
+Overfull \vbox (5.86334pt too high) detected at line 249
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[12
+
+ <./gtov.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[13
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[14
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[15
+
+]
+Overfull \vbox (3.18317pt too high) detected at line 332
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[16
+
+]
+<couple.png, id=530, 322.20375pt x 176.66pt>
+File: couple.png Graphic file (type png)
+<use couple.png>
+Package pdftex.def Info: couple.png  used on input line 350.
+(pdftex.def)             Requested size: 113.81102pt x 62.4007pt.
+
+Overfull \vbox (1.91655pt too high) detected at line 350
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[17
+
+ <./couple.png>]
+Overfull \vbox (10.37994pt too high) detected at line 370
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[18
+
+]
+<verifaction.png, id=587, 1063.975pt x 304.13625pt>
+File: verifaction.png Graphic file (type png)
+<use verifaction.png>
+Package pdftex.def Info: verifaction.png  used on input line 396.
+(pdftex.def)             Requested size: 170.71652pt x 48.79736pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[19
+
+ <./verifaction.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[20
+
+]
+<pelter.png, id=645, 527.9725pt x 271.0125pt>
+File: pelter.png Graphic file (type png)
+<use pelter.png>
+Package pdftex.def Info: pelter.png  used on input line 437.
+(pdftex.def)             Requested size: 113.81102pt x 58.41956pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[21
+
+ <./pelter.png>]
+<positive.png, id=674, 1134.2375pt x 230.8625pt>
+File: positive.png Graphic file (type png)
+<use positive.png>
+Package pdftex.def Info: positive.png  used on input line 450.
+(pdftex.def)             Requested size: 199.16928pt x 40.5354pt.
+<negative.png, id=675, 1134.2375pt x 230.8625pt>
+File: negative.png Graphic file (type png)
+<use negative.png>
+Package pdftex.def Info: negative.png  used on input line 450.
+(pdftex.def)             Requested size: 199.16928pt x 40.5354pt.
+
+Overfull \vbox (1.3554pt too high) detected at line 450
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[22
+
+ <./positive.png> <./negative.png>]
+<thermopile.png, id=705, 813.0375pt x 462.72874pt>
+File: thermopile.png Graphic file (type png)
+<use thermopile.png>
+Package pdftex.def Info: thermopile.png  used on input line 462.
+(pdftex.def)             Requested size: 227.62204pt x 129.54198pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[23
+
+ <./thermopile.png>]
+<Oersted's experiment.jpeg, id=733, 428.60126pt x 346.29375pt>
+File: Oersted's experiment.jpeg Graphic file (type jpg)
+<use Oersted's experiment.jpeg>
+Package pdftex.def Info: Oersted's experiment.jpeg  used on input line 482.
+(pdftex.def)             Requested size: 85.35826pt x 68.96689pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[24
+
+ <./Oersted's experiment.jpeg (PNG copy)>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[25
+
+]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.525 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[26
+
+]
+<strainght.png, id=820, 171.64125pt x 118.94438pt>
+File: strainght.png Graphic file (type png)
+<use strainght.png>
+Package pdftex.def Info: strainght.png  used on input line 558.
+(pdftex.def)             Requested size: 102.68962pt x 71.16208pt.
+
+Overfull \vbox (13.41125pt too high) detected at line 558
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[27
+
+ <./strainght.png>]
+<rectangle.png, id=849, 386.44376pt x 380.42125pt>
+File: rectangle.png Graphic file (type png)
+<use rectangle.png>
+Package pdftex.def Info: rectangle.png  used on input line 574.
+(pdftex.def)             Requested size: 85.35826pt x 84.02379pt.
+<coils.png, id=850, 312.16624pt x 320.19624pt>
+File: coils.png Graphic file (type png)
+<use coils.png>
+Package pdftex.def Info: coils.png  used on input line 574.
+(pdftex.def)             Requested size: 85.35826pt x 87.55344pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[28
+
+ <./rectangle.png> <./coils.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[29
+
+]
+<Mmoment.png, id=907, 489.83pt x 383.4325pt>
+File: Mmoment.png Graphic file (type png)
+<use Mmoment.png>
+Package pdftex.def Info: Mmoment.png  used on input line 624.
+(pdftex.def)             Requested size: 102.68962pt x 80.38278pt.
+
+Overfull \vbox (2.4278pt too high) detected at line 624
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[30
+
+ <./Mmoment.png>]
+<coilglv.png, id=936, 566.115pt x 486.81876pt>
+File: coilglv.png Graphic file (type png)
+<use coilglv.png>
+Package pdftex.def Info: coilglv.png  used on input line 636.
+(pdftex.def)             Requested size: 102.68962pt x 88.29956pt.
+
+! Too many }'s.
+\endframe ->\egroup 
+                    \begingroup \def \@currenvir {frame}
+l.649 \end{frame}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+<biotsavart.png, id=937, 494.84875pt x 642.4pt>
+File: biotsavart.png Graphic file (type png)
+<use biotsavart.png>
+Package pdftex.def Info: biotsavart.png  used on input line 671.
+(pdftex.def)             Requested size: 102.68962pt x 133.30042pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[31
+
+ <./coilglv.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[32 <./biotsavart.png>]
+
+! Package amsmath Error: \vec allowed only in math mode.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.701  \end{frame}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<yourgf.png, id=995, 343.2825pt x 366.36874pt>
+File: yourgf.png Graphic file (type png)
+<use yourgf.png>
+Package pdftex.def Info: yourgf.png  used on input line 701.
+(pdftex.def)             Requested size: 102.68962pt x 109.59282pt.
+
+Overfull \vbox (15.12978pt too high) detected at line 701
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[33
+
+ <./yourgf.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[34
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[35
+
+]
+<colimagent.png, id=1079, 834.11626pt x 417.56pt>
+File: colimagent.png Graphic file (type png)
+<use colimagent.png>
+Package pdftex.def Info: colimagent.png  used on input line 762.
+(pdftex.def)             Requested size: 227.62204pt x 113.9469pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[36
+
+ <./colimagent.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[37
+
+]
+<solenoids.png, id=1136, 504.88625pt x 301.125pt>
+File: solenoids.png Graphic file (type png)
+<use solenoids.png>
+Package pdftex.def Info: solenoids.png  used on input line 815.
+(pdftex.def)             Requested size: 85.35826pt x 50.90569pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[38
+
+ <./solenoids.png>]
+<trtaingelsol.png, id=1166, 436.63126pt x 398.48875pt>
+File: trtaingelsol.png Graphic file (type png)
+<use trtaingelsol.png>
+Package pdftex.def Info: trtaingelsol.png  used on input line 831.
+(pdftex.def)             Requested size: 142.26378pt x 129.83565pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[39
+
+ <./trtaingelsol.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[40
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[41
+
+]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.902 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<helmholtz.png, id=1250, 416.55624pt x 162.6075pt>
+File: helmholtz.png Graphic file (type png)
+<use helmholtz.png>
+Package pdftex.def Info: helmholtz.png  used on input line 902.
+(pdftex.def)             Requested size: 142.26378pt x 55.53394pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[42
+
+ <./helmholtz.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[43
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[44
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[45
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[46
+
+]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.993 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<ampere's.png, id=1389, 528.97626pt x 318.18875pt>
+File: ampere's.png Graphic file (type png)
+<use ampere's.png>
+Package pdftex.def Info: ampere's.png  used on input line 993.
+(pdftex.def)             Requested size: 142.26378pt x 85.57224pt.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 993.
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 993.
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 993.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[47
+
+ <./ampere's.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[48
+
+]
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <20.74> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 1066
+.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 1066
+.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <12> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 1066
+.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[49
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[50
+
+]
+<forcingpr.png, id=1502, 479.7925pt x 357.335pt>
+File: forcingpr.png Graphic file (type png)
+<use forcingpr.png>
+Package pdftex.def Info: forcingpr.png  used on input line 1108.
+(pdftex.def)             Requested size: 227.62204pt x 169.52869pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[51
+
+ <./forcingpr.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[52
+
+]
+<dircurd.png, id=1558, 479.7925pt x 357.335pt>
+File: dircurd.png Graphic file (type png)
+<use dircurd.png>
+Package pdftex.def Info: dircurd.png  used on input line 1142.
+(pdftex.def)             Requested size: 142.26378pt x 105.9527pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[53
+
+ <./dircurd.png>]
+<halleffect.png, id=1588, 400.49625pt x 228.855pt>
+File: halleffect.png Graphic file (type png)
+<use halleffect.png>
+Package pdftex.def Info: halleffect.png  used on input line 1158.
+(pdftex.def)             Requested size: 170.71652pt x 97.55367pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[54
+
+ <./halleffect.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[55
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[56
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[57
+
+]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1236 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1236 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[58
+
+]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1260 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1260 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[59
+
+]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1284 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[60
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[61
+
+]
+! Undefined control sequence.
+\beamer@doifinframe ... \textbf {Statemant:} \say 
+                                                  {It states that the magnet...
+l.1326 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[62
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[63
+
+]
+Overfull \vbox (13.11589pt too high) detected at line 1381
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[64
+
+]
+<mtables.png, id=1890, 739.76375pt x 277.035pt>
+File: mtables.png Graphic file (type png)
+<use mtables.png>
+Package pdftex.def Info: mtables.png  used on input line 1400.
+(pdftex.def)             Requested size: 341.43306pt x 127.8646pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[65
+
+ <./mtables.png>]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1413 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<hysteresis.png, id=1920, 489.83pt x 455.7025pt>
+File: hysteresis.png Graphic file (type png)
+<use hysteresis.png>
+Package pdftex.def Info: hysteresis.png  used on input line 1413.
+(pdftex.def)             Requested size: 142.26378pt x 132.35197pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[66
+
+ <./hysteresis.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[67
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[68
+
+]
+<magneticfield.png, id=2004, 1066.98625pt x 697.60625pt>
+File: magneticfield.png Graphic file (type png)
+<use magneticfield.png>
+Package pdftex.def Info: magneticfield.png  used on input line 1460.
+(pdftex.def)             Requested size: 284.52756pt x 186.02502pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[69
+
+ <./magneticfield.png>]
+! Undefined control sequence.
+\beamer@doifinframe ...let}{Magnetic Field:} \say 
+                                                  {The region at where the m...
+l.1471 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<bdiika.png, id=2033, 427.5975pt x 265.99374pt>
+File: bdiika.png Graphic file (type png)
+<use bdiika.png>
+Package pdftex.def Info: bdiika.png  used on input line 1471.
+(pdftex.def)             Requested size: 227.62204pt x 141.59293pt.
+
+Overfull \vbox (0.63791pt too high) detected at line 1471
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[70
+
+ <./bdiika.png>]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1486 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1486 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[71
+
+]
+<direction.png, id=2089, 501.875pt x 337.26pt>
+File: direction.png Graphic file (type png)
+<use direction.png>
+Package pdftex.def Info: direction.png  used on input line 1493.
+(pdftex.def)             Requested size: 284.52756pt x 191.21095pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[72
+
+ <./direction.png>]
+! Misplaced alignment tab character &.
+\beamer@doifinframe ...c field. \item Slip Rings &
+                                                   Brushes: Transfer A.C. to...
+l.1513 \end{frame}
+                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[73
+
+]
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1530 \end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 1530
+[][]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1530 \end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 1530
+[][]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1530 \end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 1530
+[][]
+ []
+
+! Undefined control sequence.
+<argument> .../enumerate \beameritemnestingprefix 
+                                                  body end
+l.1530 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+1530.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+! LaTeX Error: \begin{beamer@frameslide} on input line 1530 ended by \end{beame
+r@framepauses}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1530 \end{frame}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.1530 \end{frame}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+\endbeamer@frameslide ...amer@framepauses}\egroup 
+                                                  \ifx \beamer@frametitle \@...
+l.1530 \end{frame}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Undefined control sequence.
+\endbeamer@frameslide ...box \else \beamer@zoomer 
+                                                  \fi \beamer@undolabels \be...
+l.1530 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{beamer@frameslide}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1530 \end{frame}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.1530 \end{frame}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[74
+
+]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1555 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1555 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[75
+
+]
+<inductions.png, id=2201, 162.6075pt x 253.94875pt>
+File: inductions.png Graphic file (type png)
+<use inductions.png>
+Package pdftex.def Info: inductions.png  used on input line 1568.
+(pdftex.def)             Requested size: 113.81102pt x 177.7474pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[76
+
+ <./inductions.png>]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1589 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[77
+
+]
+
+! Package amsmath Error: \vec allowed only in math mode.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1602 \end{frame}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<rectangularcoil.jpeg, id=2258, 581.17125pt x 431.6125pt>
+File: rectangularcoil.jpeg Graphic file (type jpg)
+<use rectangularcoil.jpeg>
+Package pdftex.def Info: rectangularcoil.jpeg  used on input line 1602.
+(pdftex.def)             Requested size: 199.16928pt x 147.912pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[78
+
+ <./rectangularcoil.jpeg (PNG copy)>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[79
+
+]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1647 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<trnsfermerr.png, id=2314, 737.75626pt x 252.945pt>
+File: trnsfermerr.png Graphic file (type png)
+<use trnsfermerr.png>
+Package pdftex.def Info: trnsfermerr.png  used on input line 1647.
+(pdftex.def)             Requested size: 227.62204pt x 78.04161pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[80
+
+ <./trnsfermerr.png>]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1670 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[81
+
+]
+<accurrent.png, id=2369, 844.15375pt x 861.2175pt>
+File: accurrent.png Graphic file (type png)
+<use accurrent.png>
+Package pdftex.def Info: accurrent.png  used on input line 1682.
+(pdftex.def)             Requested size: 227.62204pt x 232.21645pt.
+
+Overfull \vbox (78.74165pt too high) detected at line 1682
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[82
+
+ <./accurrent.png>]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1698 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1698 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<peakvalueac.png, id=2399, 887.315pt x 167.62625pt>
+File: peakvalueac.png Graphic file (type png)
+<use peakvalueac.png>
+Package pdftex.def Info: peakvalueac.png  used on input line 1698.
+(pdftex.def)             Requested size: 256.0748pt x 48.37505pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[83
+
+ <./peakvalueac.png>]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1723 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[84
+
+]
+Overfull \vbox (3.18468pt too high) detected at line 1758
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[85
+
+]
+Overfull \vbox (0.29477pt too high) detected at line 1779
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[86
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[87
+
+]
+! Undefined control sequence.
+<recently read> \say 
+                     
+l.1817 \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<phasors.png, id=2538, 510.90875pt x 250.9375pt>
+File: phasors.png Graphic file (type png)
+<use phasors.png>
+Package pdftex.def Info: phasors.png  used on input line 1817.
+(pdftex.def)             Requested size: 284.52756pt x 139.74675pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[88
+
+ <./phasors.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[89
+
+]
+<giftforgf.png, id=2595, 717.68124pt x 141.52875pt>
+File: giftforgf.png Graphic file (type png)
+<use giftforgf.png>
+Package pdftex.def Info: giftforgf.png  used on input line 1868.
+(pdftex.def)             Requested size: 170.71652pt x 33.66525pt.
+<phasorofres.png, id=2596, 780.9175pt x 218.8175pt>
+File: phasorofres.png Graphic file (type png)
+<use phasorofres.png>
+Package pdftex.def Info: phasorofres.png  used on input line 1868.
+(pdftex.def)             Requested size: 142.26378pt x 39.8629pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[90
+
+ <./giftforgf.png> <./phasorofres.png>]
+<acthroughind.png, id=2626, 644.4075pt x 159.59625pt>
+File: acthroughind.png Graphic file (type png)
+<use acthroughind.png>
+Package pdftex.def Info: acthroughind.png  used on input line 1894.
+(pdftex.def)             Requested size: 142.26378pt x 35.23303pt.
+<phasoroflc.png, id=2627, 882.29625pt x 231.86626pt>
+File: phasoroflc.png Graphic file (type png)
+<use phasoroflc.png>
+Package pdftex.def Info: phasoroflc.png  used on input line 1894.
+(pdftex.def)             Requested size: 142.26378pt x 37.38593pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[91
+
+ <./acthroughind.png> <./phasoroflc.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[92
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[93
+
+]
+<capacatorsac.png, id=2714, 466.74374pt x 187.70125pt>
+File: capacatorsac.png Graphic file (type png)
+<use capacatorsac.png>
+Package pdftex.def Info: capacatorsac.png  used on input line 1985.
+(pdftex.def)             Requested size: 170.71652pt x 68.65215pt.
+<phasorofcapa.png, id=2715, 624.3325pt x 199.74625pt>
+File: phasorofcapa.png Graphic file (type png)
+<use phasorofcapa.png>
+Package pdftex.def Info: phasorofcapa.png  used on input line 1985.
+(pdftex.def)             Requested size: 142.26378pt x 45.51396pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[94
+
+ <./capacatorsac.png> <./phasorofcapa.png>]
+Overfull \vbox (6.68393pt too high) detected at line 2022
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[95
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[96
+
+]
+<Acthroughrl.png, id=2800, 1066.98625pt x 288.07625pt>
+File: Acthroughrl.png Graphic file (type png)
+<use Acthroughrl.png>
+Package pdftex.def Info: Acthroughrl.png  used on input line 2075.
+(pdftex.def)             Requested size: 170.71652pt x 46.08873pt.
+
+Overfull \vbox (3.98595pt too high) detected at line 2075
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[97
+
+ <./Acthroughrl.png>]
+Overfull \vbox (5.0308pt too high) detected at line 2109
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[98
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[99
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[100
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[101
+
+]
+<acthroughrc.png, id=2939, 1051.93pt x 244.915pt>
+File: acthroughrc.png Graphic file (type png)
+<use acthroughrc.png>
+Package pdftex.def Info: acthroughrc.png  used on input line 2229.
+(pdftex.def)             Requested size: 227.62204pt x 52.99576pt.
+
+Overfull \vbox (0.14519pt too high) detected at line 2229
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[102
+
+ <./acthroughrc.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[103
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[104
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[105
+
+]
+Overfull \vbox (5.36858pt too high) detected at line 2355
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[106
+
+]
+<lcrfromc.png, id=3080, 1095.09125pt x 287.0725pt>
+File: lcrfromc.png Graphic file (type png)
+<use lcrfromc.png>
+Package pdftex.def Info: lcrfromc.png  used on input line 2381.
+(pdftex.def)             Requested size: 199.16928pt x 52.2096pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2381 \end{frame}
+                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2381 \end{frame}
+                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[107
+
+ <./lcrfromc.png>]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[108
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[109
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[110
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[111
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[112
+
+]
+Overfull \vbox (4.5853pt too high) detected at line 2560
+ []
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[113
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[114
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[115
+
+]
+<gdgG.jpg, id=3331, 392.46625pt x 301.125pt>
+File: gdgG.jpg Graphic file (type jpg)
+<use gdgG.jpg>
+Package pdftex.def Info: gdgG.jpg  used on input line 2634.
+(pdftex.def)             Requested size: 227.62204pt x 174.64801pt.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[116
+
+ <./gdgG.jpg>]
+! Misplaced alignment tab character &.
+\beamer@doifinframe ...^2} \] \hspace {2cm} $X_L &
+                                                  = \omega L \quad \text {(I...
+l.2660     \end{frame}
+                      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+\beamer@doifinframe ...)}$ \\ \hspace {2cm} $X_C &
+                                                  = \frac {1}{\omega C} \qua...
+l.2660     \end{frame}
+                      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[117
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[118
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[119
+
+]
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[120
+
+]
+
+! Package xcolor Error: Undefined color `myNewColorC'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2731 \end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[121
+
+]
+No file electronics12.bbl.
+
+Overfull \hbox (38.99075pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[122
+
+]
+\tf@nav=\write6
+\openout6 = `electronics12.nav'.
+
+\tf@toc=\write7
+\openout7 = `electronics12.toc'.
+
+\tf@snm=\write8
+\openout8 = `electronics12.snm'.
+
+ (./electronics12.aux)
+Package rerunfilecheck Info: File `electronics12.out' has not changed.
+(rerunfilecheck)             Checksum: 5773D308EE6D3CE7D43DEC3FC1849FA2;1214.
+ ) 
+Here is how much of TeX's memory you used:
+ 42903 strings out of 478287
+ 1022856 string characters out of 5849289
+ 1487799 words of memory out of 5000000
+ 60244 multiletter control sequences out of 15000+600000
+ 488775 words of font info for 97 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,15n,122p,413b,1064s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfsx1095.pfb>
+Output written on electronics12.pdf (122 pages, 3582016 bytes).
+PDF statistics:
+ 3661 PDF objects out of 4296 (max. 8388607)
+ 3363 compressed objects within 34 object streams
+ 253 named destinations out of 1000 (max. 500000)
+ 396 words of extra memory for PDF output out of 10000 (max. 10000000)
+

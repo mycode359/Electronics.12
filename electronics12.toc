@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Electrical Circuits}{3}{0}{1}
+\beamer@sectionintoc {2}{Thermoelectric Effects}{16}{0}{2}
+\beamer@sectionintoc {3}{Magnetic effect of current}{24}{0}{3}
+\beamer@sectionintoc {4}{Magnetic Properties of Materials}{58}{0}{4}
+\beamer@sectionintoc {5}{Electromagnetic Induction}{68}{0}{5}
+\beamer@sectionintoc {6}{Alternating Currents}{82}{0}{6}
